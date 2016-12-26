@@ -3,3 +3,4 @@
 
 
 void Show();
+int Math_Func(int a,int b); //Adder
